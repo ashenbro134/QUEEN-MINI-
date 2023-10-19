@@ -1,5 +1,5 @@
 { 
-    "name": "Sakura-bot",
+    "name": "Mini-bot",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/blacksyberzizuko/QUEEN_SAKURA-MD_V0.0.1",
+    "homepage": "https://github.com/ashenbro134/QUEEN-MINI-",
     "author": {
-        "name": "DARK_LEGEND_HYPER"
+        "name": "AI_KILLER"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/blacksyberzizuko/QUEEN_SAKURA-MD_V0.0.1.git"
+        "url": "git+https://github.com/ashenbro134/QUEEN-MINI-.git"
     },
     "bugs": {
-        "url": "https://github.com/blacksyberzizuko/QUEEN_SAKURA-MD_V0.0.1/issues"
+        "url": "https://github.com/ashenbro134/QUEEN-MINI-/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
