@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['94770378874', 'Dark Legend Hyper', true],
-  ['94770378874'], 
-  ['94770378874'] 
+  ['94726962984', 'AI KILLER', true],
+  ['94726962984'], 
+  ['94726962984'] 
 ] //Numeros de owner 
 
-global.mods = ['94770378874'] 
-global.prems = ['94770378874', '94770378874', '94770378874']
+global.mods = ['94726962984'] 
+global.prems = ['94726962984', '94726962984', '94726962984']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,8 +25,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'QUEEN-SAKURA-MD' 
-global.author = '@dark-legend-hyper' 
+global.packname = 'QUEEN-MINK-MD' 
+global.author = '@AI KILLER' 
 global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
 global.dygp = 'https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU'
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
